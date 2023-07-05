@@ -34,7 +34,7 @@ I am _Anurag Garg_. I'm working as a **Software Developer Intern** 🚀 for a Ha
 
 
 ### 📫 How to reach me?
-
+- [Email](mailto:garganurag3955@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/anuraggarg01/)
 - [Twitter](https://twitter.com/anurag_garg01)
 
