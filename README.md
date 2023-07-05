@@ -1,6 +1,6 @@
 # Hello! 👋👋
 
-I am _Anurag Garg_. I'm working as a **Software Developer Intern** 🚀 for a Hashedin By Deloitte. I'm highly skilled with **JavaScript** 💻 and all its associated runtimes. I've built applications from scratch with modern web technologies. I'm someone who is always on the lookout for modern tools that would improve the experience of both the developers and end-users. I'm a huge _Productivity nerd_ who constantly tries to implement workflows and processes that would help me improve my productivity as a developer.
+I am _Anurag Garg_. I'm working as a **Software Developer Intern** 🚀 for a Hashedin By Deloitte. I possess advanced proficiency in JavaScript 💻 and its various runtimes. I have extensive experience in developing applications using cutting-edge web technologies. I continuously strive to discover and incorporate contemporary tools that enhance the overall experience for developers and end-users alike. As a dedicated aficionado of productivity, I consistently seek to implement efficient workflows and processes that elevate my performance as a developer.
 
 ### 🌟 Technologies I've worked with:
 
@@ -36,7 +36,6 @@ I am _Anurag Garg_. I'm working as a **Software Developer Intern** 🚀 for a Ha
 ### 📫 How to reach me?
 - [Email](mailto:garganurag3955@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/anuraggarg01/)
-- [Twitter](https://twitter.com/anurag_garg01)
 
 
 
