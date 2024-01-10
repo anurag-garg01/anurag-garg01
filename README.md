@@ -1,6 +1,6 @@
 # Hello! 👋👋
 
-I am _Anurag Garg_. I'm working as a **Software Developer ** 🚀 for Naryana group . I possess advanced proficiency in JavaScript 💻 and its various runtimes. I have extensive experience in developing applications using cutting-edge web technologies. I continuously strive to discover and incorporate contemporary tools that enhance the overall experience for developers and end-users alike. As a dedicated aficionado of productivity, I consistently seek to implement efficient workflows and processes that elevate my performance as a developer.
+I am _Anurag Garg_. I'm working as a **Software Developer** 🚀 for Naryana group . I possess advanced proficiency in JavaScript 💻 and its various runtimes. I have extensive experience in developing applications using cutting-edge web technologies. I continuously strive to discover and incorporate contemporary tools that enhance the overall experience for developers and end-users alike. As a dedicated aficionado of productivity, I consistently seek to implement efficient workflows and processes that elevate my performance as a developer.
 
 ### 🌟 Technologies I've worked with:
 
