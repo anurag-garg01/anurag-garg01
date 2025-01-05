@@ -4,11 +4,15 @@ I am _Anurag Garg_. I'm working as a **Software Developer** 🚀 for Naryana gro
 
 ### 🌟 Technologies I've worked with:
 
-- React
-- Node.js
-- Css
-- MongoDB
+
+- Python
+- Fastapi
 - Langchain
+- AWS
+- PostgreSQL
+- Node.js
+- Reactjs
+
   
 
 <p align="left">
